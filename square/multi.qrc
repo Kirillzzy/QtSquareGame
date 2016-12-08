@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/sounds">
+        <file>musc/begin_game.wav</file>
+        <file>musc/end_game.wav</file>
+        <file>musc/bad_connect.wav</file>
+        <file>musc/good_connect.wav</file>
+    </qresource>
+</RCC>
